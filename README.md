@@ -1,2 +1,2 @@
-# Buttony-z-animacja-oparta-o-zmiane-gradientu
-https://monika1n.github.io/Buttony-z-animacja-oparta-o-zmiane-gradientu/
+Buttony z animacją
+https://monika1n.github.io/3.-Buttony-z-animacja/
